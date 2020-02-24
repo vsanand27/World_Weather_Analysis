@@ -12,4 +12,4 @@ Purpose of this App is to help people choose thier travel desitination based on 
 
 ## APP Prints Itenerary for Preferred Travel Destinations 
 
-![alt text](https://github.com/vsanand27/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map.PNG)
+![alt text](https://github.com/vsanand27/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.PNG)
