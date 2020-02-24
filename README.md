@@ -8,4 +8,4 @@ Purpose of this App is to help people choose thier travel desitination based on 
 
 ## APP utilizes inputs from User to display Preferred Travel Destinations 
 
-![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig8.png)
+![alt text]()
