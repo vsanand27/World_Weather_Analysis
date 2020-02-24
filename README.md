@@ -8,4 +8,4 @@ Purpose of this App is to help people choose thier travel desitination based on 
 
 ## APP utilizes inputs from User to display Preferred Travel Destinations 
 
-![alt text]()
+![alt text](https://github.com/vsanand27/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map.PNG)
