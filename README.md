@@ -6,3 +6,6 @@ Purpose of this App is to help people choose thier travel desitination based on 
 2.	A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time
 3.	A map that shows the directions for customers’ travel itinerary
 
+## APP utilizes inputs from User to display Preferred Travel Destinations 
+
+![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig8.png)
